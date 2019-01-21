@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="SampleTest_main" target="1.8" />
-      <module name="SampleTest_test" target="1.8" />
+      <module name="17.01.2019_main" target="1.8" />
+      <module name="17.01.2019_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
